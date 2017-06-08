@@ -1,3 +1,7 @@
 <?php
- echo 'hello worldq	';
+ echo 'hello world';
  phpinfo();
+
+ if(true){
+ 	echo 'aaa';
+ }
